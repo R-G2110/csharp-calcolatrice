@@ -17,5 +17,10 @@
         {
             return a - b;
         }
+        // Metodo per la differenza tra due numeri double
+        public static double Subtract(double a, double b)
+        {
+            return a - b;
+        }
     }
 }
