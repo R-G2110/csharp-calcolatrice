@@ -12,5 +12,10 @@
         {
             return a + b;
         }
+        // Metodo per la differenza tra due numeri interi
+        public static int Subtract(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
