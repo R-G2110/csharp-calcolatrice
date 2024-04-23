@@ -32,5 +32,16 @@
         {
             return a * b;
         }
+        // Metodo per il valore assoluto di un numero intero
+        public static int AbsoluteValue(int a)
+        {
+            return Math.Abs(a);
+        }
+        // Metodo per il valore assoluto di un numero double
+        public static double AbsoluteValue(double a)
+        {
+            return Math.Abs(a);
+        }
+
     }
 }
