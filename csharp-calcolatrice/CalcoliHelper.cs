@@ -7,5 +7,10 @@
         {
             return a + b;
         }
+        // Metodo per la somma di due numeri double
+        public static double Sum(double a, double b)
+        {
+            return a + b;
+        }
     }
 }
