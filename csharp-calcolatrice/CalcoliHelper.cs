@@ -22,5 +22,10 @@
         {
             return a - b;
         }
+        // Metodo per la moltiplicazione di due numeri interi
+        public static int Multiply(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
