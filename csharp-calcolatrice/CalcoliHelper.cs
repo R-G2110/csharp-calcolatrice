@@ -27,5 +27,10 @@
         {
             return a * b;
         }
+        // Metodo per la moltiplicazione di due numeri double
+        public static double Multiply(double a, double b)
+        {
+            return a * b;
+        }
     }
 }
