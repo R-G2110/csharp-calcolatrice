@@ -6,6 +6,7 @@ namespace csharp_calcolatrice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\n-- Calcolatrice (Sum, Subtract, Multiply, AbsoluteValue, Minimum, Maximum) --");
             // Esempi di utilizzo dei metodi della classe CalcoliHelper
             {
                 int a = 5, b = 3;
